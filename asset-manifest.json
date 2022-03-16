@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/movieworldapp/static/css/main.58e1373c.css",
-    "main.js": "/movieworldapp/static/js/main.03b80aee.js",
-    "index.html": "/movieworldapp/index.html",
-    "static/media/search.svg": "/movieworldapp/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.58e1373c.css.map": "/movieworldapp/static/css/main.58e1373c.css.map",
-    "main.03b80aee.js.map": "/movieworldapp/static/js/main.03b80aee.js.map"
+    "main.css": "./static/css/main.58e1373c.css",
+    "main.js": "./static/js/main.d365049e.js",
+    "index.html": "./index.html",
+    "static/media/search.svg": "./static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.58e1373c.css.map": "./static/css/main.58e1373c.css.map",
+    "main.d365049e.js.map": "./static/js/main.d365049e.js.map"
   },
   "entrypoints": [
     "static/css/main.58e1373c.css",
-    "static/js/main.03b80aee.js"
+    "static/js/main.d365049e.js"
   ]
 }
